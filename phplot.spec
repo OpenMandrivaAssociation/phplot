@@ -8,7 +8,6 @@ URL:		http://www.phplot.com/
 Source0:	%{name}-%{version}rc2.tar.bz2
 Requires:	php-session php-gd 
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 A graph library for dynamic scientific, business, and
