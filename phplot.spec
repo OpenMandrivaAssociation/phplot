@@ -1,6 +1,6 @@
 Summary:	Dynamic plots, charts, and graphs in PHP
 Name:		phplot
-Version:	5.2.0
+Version:	5.3.1
 Release:	%mkrel 1
 License:	BSD
 Group:		Networking/Other
