@@ -4,7 +4,7 @@ Version:	6.2.0
 Release:	1
 License:	BSD
 Group:		Networking/Other
-URL:		http://phplot.sourceforge.net/
+URL:		https://phplot.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/phplot/%name/%version/%name-%version.tar.gz
 Requires:	php-session php-gd 
 BuildArch:	noarch
